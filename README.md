@@ -97,7 +97,7 @@ This Guidance uses AWS CDK. If you are using aws-cdk for the first time, please 
 
 1. In the Cloud9 IDE, use the terminal to clone the repository:
     ```bash
-    git clone https://github.com/aws-solutions-library-samples/guidance-for-simple-visual-search-on-aws
+    git clone https://github.com/kuriaks1/visual-search
     ```
 2. Change to the repository root folder:
     ```bash
