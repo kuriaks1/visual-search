@@ -187,7 +187,7 @@ To delete the deployed resources, use the AWS CDK CLI to run the following steps
 
 1. Using the Cloud9 terminal window, change to the root of the cloned repository:
     ```bash
-    cd guidance-for-simple-visual-search-on-aws
+    cd visual-search
     ```
 2. Run the command to delete the CloudFormation stack:
     ```bash
